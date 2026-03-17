@@ -27,5 +27,5 @@ Medication safety is critical in hospitals and clinics. This project demonstrate
 - Develop GUI for nurses and pharmacists
 
 ## Author
-Abdelrahman Ahmed  
+Abdelrahman Osman  
 Health Informatics Student
